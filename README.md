@@ -1,4 +1,4 @@
-# <span style="color: #39ff14;">Asia-Pacific-Infosec-Conferences</span>
+# 🛡️ Asia-Pacific-Infosec-Conferences
 
 Below is a list of infosec / hacking conferences in Asia Pacific. The dated schedule is organised by year and month, and the directory is organised by region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
 
@@ -8,13 +8,13 @@ Last Updated: 2026-07-07
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
 [![Twitter](https://img.shields.io/badge/twitter-@hellodanielting-blue.svg)](https://twitter.com/hellodanielting)
 
-# <span style="color: #ff5f1f;">Upcoming Conferences</span>
+# 💾 Upcoming Conferences
 
 Previous schedules are available in the [conference archive](archive.md).
 
-## <span style="color: #ff10f0;">2026</span>
+## 2026 ⤵️
 
-### <span style="color: #00f5ff;">September 2026</span>
+### 📅 September 2026
 
 <details open>
 <summary>View conferences</summary>
@@ -26,7 +26,7 @@ Previous schedules are available in the [conference archive](archive.md).
 
 </details>
 
-### <span style="color: #00f5ff;">October 2026</span>
+### 📅 October 2026
 
 <details open>
 <summary>View conferences</summary>
@@ -37,7 +37,7 @@ Previous schedules are available in the [conference archive](archive.md).
 
 </details>
 
-### <span style="color: #00f5ff;">November 2026</span>
+### 📅 November 2026
 
 <details open>
 <summary>View conferences</summary>
@@ -53,9 +53,9 @@ Previous schedules are available in the [conference archive](archive.md).
 
 > Approximate attendee numbers are forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctuations year on year.
 
-# <span style="color: #ff5f1f;">Conference Directory</span>
+# 🌏 Conference Directory
 
-### <span style="color: #00f5ff;">Australia</span>
+### 🇦🇺 Australia
 
 <details>
 <summary>View states and cities</summary>
@@ -136,7 +136,7 @@ Previous schedules are available in the [conference archive](archive.md).
 
 </details>
 
-### <span style="color: #00f5ff;">India</span>
+### 🇮🇳 India
 
 <details>
 <summary>View states and cities</summary>
@@ -163,7 +163,7 @@ Previous schedules are available in the [conference archive](archive.md).
 
 </details>
 
-### <span style="color: #00f5ff;">New Zealand</span>
+### 🇳🇿 New Zealand
 
 <details>
 <summary>View states and cities</summary>
@@ -178,7 +178,7 @@ Previous schedules are available in the [conference archive](archive.md).
 
 </details>
 
-### <span style="color: #00f5ff;">Philippines</span>
+### 🇵🇭 Philippines
 
 <details>
 <summary>View states and cities</summary>
@@ -194,7 +194,7 @@ Previous schedules are available in the [conference archive](archive.md).
 
 </details>
 
-### <span style="color: #00f5ff;">Singapore</span>
+### 🇸🇬 Singapore
 
 <details>
 <summary>View states and cities</summary>
@@ -207,7 +207,7 @@ Previous schedules are available in the [conference archive](archive.md).
 
 </details>
 
-### <span style="color: #00f5ff;">Nepal</span>
+### 🇳🇵 Nepal
 
 <details>
 <summary>View states and cities</summary>
@@ -218,7 +218,7 @@ Previous schedules are available in the [conference archive](archive.md).
 
 </details>
 
-### <span style="color: #00f5ff;">Malaysia</span>
+### 🇲🇾 Malaysia
 
 <details>
 <summary>View states and cities</summary>
@@ -229,7 +229,7 @@ Previous schedules are available in the [conference archive](archive.md).
 
 </details>
 
-### <span style="color: #00f5ff;">South Korea</span>
+### 🇰🇷 South Korea
 
 <details>
 <summary>View states and cities</summary>
@@ -241,7 +241,7 @@ Previous schedules are available in the [conference archive](archive.md).
 
 </details>
 
-### <span style="color: #00f5ff;">Taiwan</span>
+### 🇹🇼 Taiwan
 
 <details>
 <summary>View states and cities</summary>
@@ -253,7 +253,7 @@ Previous schedules are available in the [conference archive](archive.md).
 
 </details>
 
-# <span style="color: #ff5f1f;">Global Conferences that you might care about</span>
+# 🌐 Global Conferences that you might care about
 
 ### RSA
 
