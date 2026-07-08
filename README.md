@@ -14,6 +14,17 @@ Previous schedules are available in the [conference archive](archive.md).
 
 ## 2026 ⤵️
 
+### 📅 August 2026
+
+<details open>
+<summary>View conferences</summary>
+
+| Date | Conference | Location | Approx. Attendees\* |
+| --- | --- | --- | --- |
+| 27 Aug 2026 | [Realms of Cyber 2026](https://www.realmsofcyber.com/) | Brisbane, QLD, Australia | Unknown |
+
+</details>
+
 ### 📅 September 2026
 
 <details open>
@@ -21,6 +32,7 @@ Previous schedules are available in the [conference archive](archive.md).
 
 | Date | Conference | Location | Approx. Attendees\* |
 | --- | --- | --- | --- |
+| 4 - 10 Sep 2026 | [APNIC62](https://conference.apnic.net/62/index.html) | Mumbai, India | Unknown |
 | 18-19 Sep 2026 | [Unprompted.au](https://www.unprompted.au/) | Sydney, NSW, Australia | Unknown |
 | 24-26 Sep 2026 | [BSides Canberra IX](https://www.bsidesau.com.au/) | Canberra, ACT, Australia | Unknown |
 
@@ -68,6 +80,7 @@ Previous schedules are available in the [conference archive](archive.md).
 - [CSECcon](http://cseccon.utscyber.org/)
 - [Hack Sydney](https://www.hack.sydney/)
 - [purplecon](https://purplecon.org/)
+- [RooCon](https://x.com/RooCon_AU)
 - [SCONES](https://scones.secso.cc/)
 - [SydneySec](https://aisasecuritydays.com.au/sydneysec)
 - [Unprompted.au](https://www.unprompted.au/)
@@ -104,14 +117,14 @@ Previous schedules are available in the [conference archive](archive.md).
 
 #### Brisbane
 
-- [BrisSEC](https://www.aisa.org.au/Public/Events/Event_Display.aspx?EventKey=291c8df8-7ba0-4f55-967a-bf47a19aad0b&iSearchResult=true&WebsiteKey=f9fae671-69a2-4102-8f2f-cc24ed48d26c)
+- [BrisSEC](https://www.aisa.org.au/Public/Branches/Brisbane/Upcoming_Events.aspx)
 - [CrikeyCon](https://www.crikeycon.com/)
 - [BSides Brisbane](https://bsidesbrisbane.com/)
 - [Realms of Cyber](https://www.realmsofcyber.com/)
 
 #### Sunshine Coast
 
-- [TuskCon](http://tuskcon.org/)
+- [SunCon](https://sunconqld.com/)
 
 #### Gold Coast
 
